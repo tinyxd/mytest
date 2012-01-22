@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 {
-	printf("Version : 0.01\n");
+	printf(¡±Welcome to roclinux.cn\n¡±);
+	printf("Version : 0.02\n");
 	printf("hello world!\n");
 	return 0;
 }
