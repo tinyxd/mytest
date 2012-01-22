@@ -3,7 +3,7 @@
 int main()
 {
 
-	printf(¡±Welcome to roclinux.cn\n¡±);
+	printf("Welcome to roclinux.cn\n");
 	time_t mytime;
 	struct tm *mylocaltime;
 	mytime=time(NULL);
